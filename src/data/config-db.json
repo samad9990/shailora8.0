@@ -1,0 +1,102 @@
+{
+  "passcode": "shailora",
+  "logoType": "image",
+  "logoUrl": "/uploads/731350306-18112705147786449-7107271482081418584-n-1784218432131.jpg",
+  "logoWidth": 60,
+  "logoHeight": 50,
+  "hideText": false,
+  "aboutSection": {
+    "backgroundColor": "#18181b",
+    "textColor": "#f4f4f5",
+    "blocks": [
+      {
+        "id": "about-block-1",
+        "type": "text",
+        "content": "At SHAILORA, we conceptualize and build silent, monumental contemporary architecture. Our work is a continuous exploration of raw concrete, geometric light pockets, and tectonic scale. Under the design direction of leading spatial researchers, our studio has delivered landmarks that challenge the traditional dichotomy of landscape and enclosure."
+      },
+      {
+        "id": "about-block-2",
+        "type": "image",
+        "content": "https://www.instagram.com/reel/DW_4VWyJ7aw/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
+        "aspect": "auto"
+      },
+      {
+        "id": "about-block-1784218645889-mhrl",
+        "type": "video",
+        "content": "https://youtu.be/5RRma-0Y8MU?si=POT89ch08B1Aej97",
+        "aspect": "1:1"
+      }
+    ],
+    "team": [
+      {
+        "id": "team-member-1",
+        "name": "bulbul",
+        "role": "ffffffffff",
+        "image": "/uploads/adobe-scan-20-oct-2023-page-0001-1784228963649.jpg",
+        "imageLeft": "/uploads/adobe-scan-20-oct-2023-page-0001-1784228963649.jpg",
+        "imageRight": "/uploads/adobe-scan-20-oct-2023-page-0001-1784228963649.jpg",
+        "secCode": "SEC-70135-A-1784",
+        "status": "draftsman",
+        "accessCode": "lvl1",
+        "signal": "low",
+        "bio": "Affffffffffffffff"
+      },
+      {
+        "id": "team-member-2",
+        "name": "Elena Rostova",
+        "role": "Tectonic Synthesizer",
+        "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=500&q=80",
+        "imageLeft": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=500&q=80",
+        "imageRight": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=500&q=80",
+        "secCode": "SEC-44109-R-2201",
+        "status": "CORE SYNTHESIZER",
+        "accessCode": "LEVEL_4_CLEAR",
+        "signal": "SECURE",
+        "bio": "AUTHORIZED TO EXPERIMENT WITH UNVARNISHED CAST-IN-PLACE CONCRETE MIXES AND RECESSED METALLIC JOINERY IN LOW-TEMPERATURE GEOGRAPHIC VOLUMES."
+      },
+      {
+        "id": "team-member-3",
+        "name": "Kaelen Vance",
+        "role": "Construction Director",
+        "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=500&q=80",
+        "imageLeft": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=500&q=80",
+        "imageRight": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=500&q=80",
+        "secCode": "SEC-18752-V-9041",
+        "status": "FIELD OPERATIVE",
+        "accessCode": "LEVEL_4_CLEAR",
+        "signal": "STABLE",
+        "bio": "LICENSED FOR THE SITE SUPERVISION AND STRUCTURAL REALIZATION OF EXPERIMENTAL SHELL REINFORCEMENTS IN REMOTE OFF-GRID TOPOGRAPHIES."
+      },
+      {
+        "id": "team-member-4",
+        "name": "Sora Niwa",
+        "role": "Computational Sculptor",
+        "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=500&q=80",
+        "imageLeft": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=500&q=80",
+        "imageRight": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=500&q=80",
+        "secCode": "SEC-09228-N-3054",
+        "status": "GRID ARCHITECT",
+        "accessCode": "LEVEL_3_CLEAR",
+        "signal": "LOW",
+        "bio": "AUTHORIZED TO DESIGN COMPUTATIONAL LANDSCAPE CONTOURS AND RECONCILE ARTIFICIAL PERIMETER DISSOLUTION WITH REGIONAL WIND SYSTEMS."
+      }
+    ]
+  },
+  "newsletterSection": {
+    "backgroundColor": "#09090b",
+    "textColor": "#f4f4f5",
+    "blocks": [
+      {
+        "id": "news-block-1",
+        "type": "text",
+        "content": "Join our seasonal dispatch. We share high-fidelity architectural sketches, blueprints, essays on materials, and project construction journals directly from our active ateliers."
+      },
+      {
+        "id": "newsletter-block-1784220631294-jzbn",
+        "type": "video",
+        "content": "https://www.instagram.com/reel/DW_4VWyJ7aw/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
+        "aspect": "4:3"
+      }
+    ]
+  }
+}
